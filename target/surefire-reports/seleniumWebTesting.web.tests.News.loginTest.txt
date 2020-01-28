@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: seleniumWebTesting.web.tests.News.loginTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 159.956 s <<< FAILURE! - in seleniumWebTesting.web.tests.News.loginTest
+searchingCommunityAndWatchingSomeMemes(seleniumWebTesting.web.tests.News.loginTest)  Time elapsed: 12.622 s  <<< FAILURE!
+com.codeborne.selenide.ex.ElementNotFound: 
+Element not found {.pv_close_btn}
+Expected: visible or transparent: visible or have css value opacity=0
+Screenshot: file:/C:/Users/danel/Desktop/test/build/reports/tests/1579697955330.0.png
+Page source: file:/C:/Users/danel/Desktop/test/build/reports/tests/1579697955330.0.html
+Timeout: 4 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pv_close_btn"}
+	at seleniumWebTesting.web.tests.News.loginTest.searchingCommunityAndWatchingSomeMemes(loginTest.java:89)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":".pv_close_btn"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-1JKFC5I', ip: '10.164.6.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\danel\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51540}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f8899b4561d3ca8f9506dea0e884dbf7
+*** Element info: {Using=css selector, value=.pv_close_btn}
+	at seleniumWebTesting.web.tests.News.loginTest.searchingCommunityAndWatchingSomeMemes(loginTest.java:89)
+

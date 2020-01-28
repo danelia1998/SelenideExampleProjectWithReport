@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="158812" started-at="2020-01-22T16:57:01 GET" finished-at="2020-01-22T16:59:40 GET">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="158812" started-at="2020-01-22T16:57:01 GET" finished-at="2020-01-22T16:59:40 GET">
+      <class name="seleniumWebTesting.web.tests.News.loginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="setUp" is-config="true" duration-ms="28" started-at="2020-01-22T16:57:01 GET" finished-at="2020-01-22T16:57:01 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginIntoSystem()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="loginIntoSystem" is-config="true" duration-ms="14864" started-at="2020-01-22T16:57:02 GET" finished-at="2020-01-22T16:57:16 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSystem -->
+        <test-method status="PASS" signature="checkIfFriendExists()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="checkIfFriendExists" duration-ms="6855" started-at="2020-01-22T16:57:16 GET" finished-at="2020-01-22T16:57:23 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIfFriendExists -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="afterMethod" is-config="true" duration-ms="2069" started-at="2020-01-22T16:57:23 GET" finished-at="2020-01-22T16:57:25 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="setUp" is-config="true" duration-ms="1" started-at="2020-01-22T16:57:25 GET" finished-at="2020-01-22T16:57:25 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginIntoSystem()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="loginIntoSystem" is-config="true" duration-ms="13154" started-at="2020-01-22T16:57:25 GET" finished-at="2020-01-22T16:57:39 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSystem -->
+        <test-method status="PASS" signature="playMusic()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="playMusic" duration-ms="17407" started-at="2020-01-22T16:57:39 GET" finished-at="2020-01-22T16:57:56 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playMusic -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="afterMethod" is-config="true" duration-ms="2243" started-at="2020-01-22T16:57:56 GET" finished-at="2020-01-22T16:57:58 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="setUp" is-config="true" duration-ms="1" started-at="2020-01-22T16:57:58 GET" finished-at="2020-01-22T16:57:58 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginIntoSystem()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="loginIntoSystem" is-config="true" duration-ms="13057" started-at="2020-01-22T16:57:58 GET" finished-at="2020-01-22T16:58:11 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSystem -->
+        <test-method status="PASS" signature="playMusicLookingToMyMassageFeelings()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="playMusicLookingToMyMassageFeelings" duration-ms="4168" started-at="2020-01-22T16:58:11 GET" finished-at="2020-01-22T16:58:15 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playMusicLookingToMyMassageFeelings -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="afterMethod" is-config="true" duration-ms="2678" started-at="2020-01-22T16:58:15 GET" finished-at="2020-01-22T16:58:18 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="setUp" is-config="true" duration-ms="1" started-at="2020-01-22T16:58:18 GET" finished-at="2020-01-22T16:58:18 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginIntoSystem()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="loginIntoSystem" is-config="true" duration-ms="12774" started-at="2020-01-22T16:58:18 GET" finished-at="2020-01-22T16:58:31 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSystem -->
+        <test-method status="PASS" signature="playMusicWithShuffle()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="playMusicWithShuffle" duration-ms="16001" started-at="2020-01-22T16:58:31 GET" finished-at="2020-01-22T16:58:47 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playMusicWithShuffle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="afterMethod" is-config="true" duration-ms="2824" started-at="2020-01-22T16:58:47 GET" finished-at="2020-01-22T16:58:50 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="setUp" is-config="true" duration-ms="1" started-at="2020-01-22T16:58:50 GET" finished-at="2020-01-22T16:58:50 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginIntoSystem()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="loginIntoSystem" is-config="true" duration-ms="13117" started-at="2020-01-22T16:58:50 GET" finished-at="2020-01-22T16:59:03 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSystem -->
+        <test-method status="FAIL" signature="searchingCommunityAndWatchingSomeMemes()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="searchingCommunityAndWatchingSomeMemes" duration-ms="12594" started-at="2020-01-22T16:59:03 GET" finished-at="2020-01-22T16:59:16 GET">
+          <exception class="com.codeborne.selenide.ex.ElementNotFound">
+            <message>
+              <![CDATA[Element not found {.pv_close_btn}
+Expected: visible or transparent: visible or have css value opacity=0
+Screenshot: file:/C:/Users/danel/Desktop/test/build/reports/tests/1579697955330.0.png
+Page source: file:/C:/Users/danel/Desktop/test/build/reports/tests/1579697955330.0.html
+Timeout: 4 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pv_close_btn"}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[Element not found {.pv_close_btn}
+Expected: visible or transparent: visible or have css value opacity=0
+Screenshot: file:/C:/Users/danel/Desktop/test/build/reports/tests/1579697955330.0.png
+Page source: file:/C:/Users/danel/Desktop/test/build/reports/tests/1579697955330.0.html
+Timeout: 4 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pv_close_btn"}
+at com.codeborne.selenide.impl.WebElementSource.createElementNotFoundError(WebElementSource.java:37)
+at com.codeborne.selenide.impl.ElementFinder.createElementNotFoundError(ElementFinder.java:100)
+at com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:65)
+at com.codeborne.selenide.impl.WebElementSource.findAndAssertElementIsInteractable(WebElementSource.java:87)
+at com.codeborne.selenide.commands.Click.execute(Click.java:13)
+at com.codeborne.selenide.commands.Click.execute(Click.java:9)
+at com.codeborne.selenide.commands.Commands.execute(Commands.java:145)
+at com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:99)
+at com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:65)
+at com.sun.proxy.$Proxy17.click(Unknown Source)
+at seleniumWebTesting.web.stepObjects.CommunityGroupsSteps.openingPicByIndexWithTiming(CommunityGroupsSteps.java:33)
+at seleniumWebTesting.web.tests.News.loginTest.searchingCommunityAndWatchingSomeMemes(loginTest.java:89)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1257)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pv_close_btn"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-1JKFC5I', ip: '10.164.6.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\danel\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51540}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f8899b4561d3ca8f9506dea0e884dbf7
+*** Element info: {Using=css selector, value=.pv_close_btn}
+at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:420)
+at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.codeborne.selenide.impl.WebElementSelector.findElement(WebElementSelector.java:30)
+at com.codeborne.selenide.impl.ElementFinder.getWebElement(ElementFinder.java:74)
+at com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:50)
+... 42 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.codeborne.selenide.ex.ElementNotFound -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingCommunityAndWatchingSomeMemes -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="afterMethod" is-config="true" duration-ms="2099" started-at="2020-01-22T16:59:16 GET" finished-at="2020-01-22T16:59:18 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="setUp" is-config="true" duration-ms="1" started-at="2020-01-22T16:59:18 GET" finished-at="2020-01-22T16:59:18 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginIntoSystem()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="loginIntoSystem" is-config="true" duration-ms="13310" started-at="2020-01-22T16:59:18 GET" finished-at="2020-01-22T16:59:31 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSystem -->
+        <test-method status="PASS" signature="sendMassageToPerson()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="sendMassageToPerson" duration-ms="6538" started-at="2020-01-22T16:59:31 GET" finished-at="2020-01-22T16:59:38 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMassageToPerson -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:seleniumWebTesting.web.tests.News.loginTest@163e4e87]" name="afterMethod" is-config="true" duration-ms="2687" started-at="2020-01-22T16:59:38 GET" finished-at="2020-01-22T16:59:40 GET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- seleniumWebTesting.web.tests.News.loginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
